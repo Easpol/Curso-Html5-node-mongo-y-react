@@ -1,0 +1,46 @@
+body{
+    background-color: lightgrey;
+}
+
+.caja {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: yellow;
+    border-radius: 5px;
+    border-top: solid 0px;
+    padding: 10px;
+}
+
+.contenido {
+    padding: 10px;
+}
+
+.cajacabecera{
+    border-bottom: solid 1px #eee;
+    padding: 10px;
+    
+}
+
+
+.footer {
+    padding: 10px;
+    border-top: solid 1px #eee;
+}
+
+
+
+.primario{
+    background-color: lightblue;
+    border: 0px;
+    padding: 5px;
+    color:white;
+
+}
+
+.secundario {
+    background-color: grey;
+    border: 0px;
+    padding: 5px;
+    color: white;
+}
